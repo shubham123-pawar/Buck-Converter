@@ -1,0 +1,25 @@
+Drill report for assessment3.kicad_pcb
+Created on 2026-09-16T01:54:03
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'assessment3-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (3 holes))
+    T2  0.500mm  0.0197"  (2 holes))
+    T3  1.000mm  0.0394"  (12 holes)  (with 3 slots)
+    T4  2.200mm  0.0866"  (4 holes))
+
+    Total plated holes count 21
+
+
+Drill file 'assessment3-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
